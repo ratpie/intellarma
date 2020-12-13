@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ratpie.intellarma.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ratpie.intellarma.MyBundle
 
 class MyApplicationService {
 
